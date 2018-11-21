@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author zhang
- *
- */
-module mytest {
-}
